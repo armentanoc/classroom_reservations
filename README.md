@@ -9,7 +9,7 @@ This program, developed in native Java, allows professors at a university to mak
 ## Setup
 1. Fist, clone the repo:
 ```
-git clone https://github.com/armentc/reserva_de_laboratorios.git
+git clone https://github.com/armentanoc/classroom_reservations.git
 ``` 
 2. Then, using an IDE such as VsCode, run the class ```Executar.java```.
 
